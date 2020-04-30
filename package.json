@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"bootstrap": "^4.3.1",
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"mithril": "^2.0.1",
 		"popper.js": "^1.15.0"
 	},
